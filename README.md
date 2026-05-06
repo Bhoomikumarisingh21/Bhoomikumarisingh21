@@ -1,6 +1,5 @@
 # 💫 About Me:
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
+<img align="right" alt="Girl Coding" width="280" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 <br><br>Hi there! I'm Bhoomi Kumari Singh 👋  <br>I'm a B.Tech Computer Science (Artificial Intelligence) student passionate about building real-world problem solutions using code.<br><br>- 💻 I'm currently learning **Data Structures & Algorithms in Java**<br>- 🌐 I'm working on my **personal portfolio website** using HTML, CSS, JavaScript<br><br>- 🚀 My goal is to become a **Full Stack Developer** and get placed in a top product-based company<br><br><br>
 
 ## 🌐 Socials:
