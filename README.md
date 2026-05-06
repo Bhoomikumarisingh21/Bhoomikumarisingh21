@@ -10,15 +10,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋;I'm+Bhoomi+Kumari+Singh;B.Tech+Computer+Science+Student;Aspiring+Full+Stack+Developer;Learning+DSA+in+Java)](https://git.io/typing-svg)
 
-## 🚀 My Projects
+## 🚀 My Projects:
 - 🍔 Food_Ingredient_Nutrition_Scan_Finder (HTML, CSS, JavaScript,Flutter)
 - 🛒 Edu-Guide1 (HTML,CSS,Javascript)
 - 🌐 Personal Portfolio Website
 
-- ## 📈 GitHub Activity Graph
+- ## 📈 GitHub Activity Graph:
 [![Bhoomi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhoomikumarisingh21&theme=react-dark)](https://github.com/bhoomikumarisingh21)
-Profile Views Counter
+Profile Views Counter:
 ![](https://komarev.com/ghpvc/?username=bhoomikumarisingh21&color=blue)
 
-## ⚡ Fun Fact
+## ⚡ Fun Fact:
 I love solving coding problems and building real-world web projects.
