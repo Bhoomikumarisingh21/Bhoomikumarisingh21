@@ -1,5 +1,5 @@
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello+👋;I'm+Bhoomi+Singh;B.TECH+Computer+Science+Artificial+Intelligence+Student;Aspiring+Full+Stack+Developer;Learning+DSA+in+Java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello+👋;I'm+Bhoomi+Singh;B.TECH+Computer+Science+Artificial+Intelligence+Machine+Learning+Student;Aspiring+Full+Stack+Developer;Learning+DSA+in+Java)](https://git.io/typing-svg)
 
 <img align="right" alt="Girl Coding" width="260" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 <br><br>Hi there! I'm Bhoomi Kumari Singh 👋  <br>I'm a B.Tech Computer Science (Artificial Intelligence) student at "ARKA JAIN UNIVERSITY" passionate about building real-world problem solutions using code.<br><br>- 💻 I'm currently learning **Data Structures & Algorithms in Java**<br>- 🌐 I'm working on my **personal portfolio website** using HTML, CSS, JavaScript<br><br>- 🚀 My goal is to become a **Full Stack Developer** and get placed in a top product-based company<br><br><br>
