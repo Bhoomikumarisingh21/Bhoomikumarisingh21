@@ -20,7 +20,8 @@
 ## 🚀 My Projects:
 - 🍔 Food_Ingredient_Nutrition_Scan_Finder (HTML, CSS, JavaScript,Flutter)
 - 🛒 Edu-Guide1 (HTML,CSS,Javascript)
-- 🌐 Personal Portfolio Website
+- 🌐 To-Do-App
+- 🌐 personal portfolio website
 
 - ## 📈 GitHub Activity Graph:
 [![Bhoomi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhoomikumarisingh21&theme=react-dark)](https://github.com/bhoomikumarisingh21)
