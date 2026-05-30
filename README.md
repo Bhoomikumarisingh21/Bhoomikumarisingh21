@@ -1,7 +1,7 @@
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello+👋;I'm+Bhoomi+Singh;B.TECH+Computer+Science+(AIML)+Student;Aspiring+Full+Stack+Developer;Learning+DSA+in+Java)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-<br><br>Hi there! I'm Bhoomi Kumari Singh 👋  <br>I'm a B.Tech Computer Science (Artificial Intelligence) student at "ARKA JAIN UNIVERSITY" passionate about building real-world problem solutions using code.<br><br>- 💻 I'm currently learning **Data Structures & Algorithms in Java**<br>- 🌐 I'm working on my **personal portfolio website** using HTML, CSS, JavaScript<br><br>- 🚀 My goal is to become a **Full Stack Developer** and get placed in a top product-based company<br><br><br>
+<br><br>Hi there! I'm Bhoomi Kumari Singh 👋  <br>I'm a B.Tech Computer Science (AI&ML) student at "ARKA JAIN UNIVERSITY" passionate about building real-world problem solutions using code.<br><br>- 💻 I'm currently learning **Data Structures & Algorithms in Java**<br>- 🌐 I'm working on my **personal portfolio website** using HTML, CSS, JavaScript<br><br>- 🚀 My goal is to become a **Full Stack Developer** and get placed in a top product-based company<br><br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhoomi-singh21/) <br>[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhbhoomi999@gmail.com) 
