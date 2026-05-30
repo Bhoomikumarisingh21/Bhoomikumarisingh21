@@ -52,7 +52,7 @@ I'm a **B.Tech Computer Science (AI&ML) student** at **ARKA JAIN UNIVERSITY** pa
 ### 🍔 Food Ingredient Nutrition Scan Finder
 **Tech Stack:** Flutter, Firebase, Machine Learning  
 A mobile app that scans food ingredients and provides nutritional information using ML models.  
-📱 [View Project](#) | ⭐ Highlights: Real-time scanning, Nutrition API integration
+📱| ⭐ Highlights: Real-time scanning, Nutrition API integration
 
 ### 🛒 Edu-Guide1
 **Tech Stack:** HTML, CSS, JavaScript  
