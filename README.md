@@ -13,8 +13,9 @@ I'm a **B.Tech Computer Science (AI&ML) student** at **ARKA JAIN UNIVERSITY** pa
 ## 🎯 Current Focus
 - 🚀 Building scalable web applications with React & Node.js
 - 🤖 Exploring AI/ML applications in real-world scenarios
-- 📱 Developing cross-platform mobile apps with Flutter
+- 📱 Developing cross-platform mobile apps with Flutter(With using AI tools)
 - 💡 Contributing to open-source projects
+- 📚 Currently learning FULLSTACK Web Development
 
 ---
 
@@ -56,12 +57,12 @@ A mobile app that scans food ingredients and provides nutritional information us
 ### 🛒 Edu-Guide1
 **Tech Stack:** HTML, CSS, JavaScript  
 An educational platform designed to guide students in their learning journey.  
-🌐 [View Project](#) | ⭐ Highlights: Interactive UI, User-friendly design
+🌐 [https://edu-guide1.netlify.app/](#) | ⭐ Highlights: Interactive UI, User-friendly design
 
 ### 🌐 To-Do-App
 **Tech Stack:** React, LocalStorage  
 A feature-rich task management application with persistent storage.  
-🌐 [View Project](#) | ⭐ Highlights: CRUD operations, Responsive design
+🌐| ⭐ Highlights: CRUD operations, Responsive design
 
 ### 🌐 Personal Portfolio
 **Tech Stack:** React, Tailwind CSS  
