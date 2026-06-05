@@ -13,7 +13,7 @@ I'm a **B.Tech Computer Science (AI&ML) student** at **ARKA JAIN UNIVERSITY** pa
 ## 🎯 Current Focus
 - 🚀 Building scalable web applications with React & Node.js
 - 🤖 Exploring AI/ML applications in real-world scenarios
-- 📱 Developing cross-platform mobile apps with Flutter(With using AI tools)
+- 📱 Developing cross-platform mobile apps with Flutter (With using AI tools)
 - 💡 Contributing to open-source projects
 - 📚 Currently learning FULLSTACK Web Development
 
@@ -22,7 +22,7 @@ I'm a **B.Tech Computer Science (AI&ML) student** at **ARKA JAIN UNIVERSITY** pa
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhoomi-singh21/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhbhoomi999@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://bhoomikumarisingh21.github.io/my-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://bhoomi-singh-portfolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhoomikumarisingh21)
 
 ---
@@ -49,25 +49,35 @@ I'm a **B.Tech Computer Science (AI&ML) student** at **ARKA JAIN UNIVERSITY** pa
 
 ## 🚀 Featured Projects
 
+### 🌤️ Weather Forecast App
+**Tech Stack:** Flutter, Dart, Weather API  
+A real-time weather forecasting application providing accurate atmospheric insights and sleek visual updates based on current weather conditions.  
+📱| ⭐ Highlights: Live location tracking, Dynamic background UI transitions
+
 ### 🍔 Food Ingredient Nutrition Scan Finder
 **Tech Stack:** Flutter, Firebase, Machine Learning  
-A mobile app that scans food ingredients and provides nutritional information using ML models.  
-📱| ⭐ Highlights: Real-time scanning, Nutrition API integration
+A smart mobile app that scans food ingredients and provides comprehensive nutritional breakdowns using computer vision and ML models.  
+📱| ⭐ Highlights: Real-time image scanning, Nutrition API integration
+
+### 🌐 Personalized To-Do App
+**Tech Stack:** Flutter, Dart, Web Server  
+A highly optimized, feature-rich task management application featuring seamless CRUD operations, responsive designs, and automated build workflows.  
+🌐| ⭐ Highlights: Clean architecture, Highly responsive on mobile (APK) & Web
+
+### 🎧 Audio Guide App
+**Tech Stack:** Flutter, Dart, Audio Players  
+A dark-themed high-tech audio companion application featuring sleek audio wave visualization and advanced player controls.  
+📱| ⭐ Highlights: Premium custom player UI, Smooth wave animations
 
 ### 🛒 Edu-Guide1
 **Tech Stack:** HTML, CSS, JavaScript  
 An educational platform designed to guide students in their learning journey.  
-🌐 [https://edu-guide1.netlify.app/](#) | ⭐ Highlights: Interactive UI, User-friendly design
-
-### 🌐 To-Do-App
-**Tech Stack:** React, LocalStorage  
-A feature-rich task management application with persistent storage.  
-🌐| ⭐ Highlights: CRUD operations, Responsive design
+🌐 [Live Link](https://edu-guide1.netlify.app/) | ⭐ Highlights: Interactive UI, User-friendly design
 
 ### 🌐 Personal Portfolio
-**Tech Stack:** React, Tailwind CSS  
-Showcase of my skills, projects, and professional experience.  
-🌐 [Visit Portfolio](https://bhoomikumarisingh21.github.io/my-portfolio/)
+**Tech Stack:** HTML, CSS, JavaScript, Netlify  
+An updated showcase of my AIML specialization, technical skills, and interactive live project demos.  
+🌐 [Visit Portfolio](https://bhoomi-singh-portfolio.netlify.app/)
 
 ---
 
@@ -88,8 +98,7 @@ Showcase of my skills, projects, and professional experience.
 ---
 
 ## 🏆 Achievements & Certifications
-- ✅ [Certification:participation in hack horizon]
-- ✅ [Achievement/Award]
+- ✅ Certification: Participation in Hack Horizon
 - 🎖️ Passionate about continuous learning
 
 ---
