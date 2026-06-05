@@ -64,11 +64,6 @@ A smart mobile app that scans food ingredients and provides comprehensive nutrit
 A highly optimized, feature-rich task management application featuring seamless CRUD operations, responsive designs, and automated build workflows.  
 🌐| ⭐ Highlights: Clean architecture, Highly responsive on mobile (APK) & Web
 
-### 🎧 Audio Guide App
-**Tech Stack:** Flutter, Dart, Audio Players  
-A dark-themed high-tech audio companion application featuring sleek audio wave visualization and advanced player controls.  
-📱| ⭐ Highlights: Premium custom player UI, Smooth wave animations
-
 ### 🛒 Edu-Guide1
 **Tech Stack:** HTML, CSS, JavaScript  
 An educational platform designed to guide students in their learning journey.  
