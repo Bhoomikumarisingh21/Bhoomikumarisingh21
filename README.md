@@ -6,7 +6,7 @@
 
 ## 👋 Hi there! I'm Bhoomi Kumari Singh
 
-I'm a **B.Tech Computer Science (AI&ML) student** at **ARKA JAIN UNIVERSITY** passionate about building innovative solutions that solve real-world problems. I specialize in **full-stack development**, **machine learning**, and **Flutter app development**.
+I'm a **B.Tech Computer Science (AI&ML) student** at **ARKA JAIN UNIVERSITY** passionate about building innovative solutions that solve real-world problems. I specialize in **full-stack development**, **machine learning**.
 
 ---
 
