@@ -72,7 +72,7 @@ An educational platform designed to guide students in their learning journey.
 ### 🌐 Personal Portfolio
 **Tech Stack:** HTML, CSS, JavaScript, Netlify  
 An updated showcase of my AIML specialization, technical skills, and interactive live project demos.  
-🌐 [Visit Portfolio](https://bhoomi-singh-portfolio.netlify.app/)
+🌐 [Visit Portfolio](https://portfolio-bhoomi21.netlify.app/)
 
 ---
 
